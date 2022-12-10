@@ -8,6 +8,7 @@ from sense_hat import SenseHat
 sense = SenseHat()
 
 # Show a hello message
+sense.show_message("Hello, Erie21!")
 
 # Pause
 sleep(5)
