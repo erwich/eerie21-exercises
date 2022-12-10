@@ -1,0 +1,1 @@
+Let's write some basic text to the SenseHAT to get started!
